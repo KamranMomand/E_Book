@@ -1,0 +1,9 @@
+.main-header{
+    background-color: #04122d !important;
+    position:fixed;
+    width:100%;
+    z-index: 1;
+}
+.nav-link{
+    color:white !important;
+}
